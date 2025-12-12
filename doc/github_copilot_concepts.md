@@ -4,7 +4,7 @@
 
 GitHub Copilot offers two distinct modes of interaction: **Agent Sessions** and **Conversations**. Understanding the difference between these two concepts is crucial for effective use of GitHub Copilot.
 
-## Agent Session (エージェントセッション)
+## Agent Session
 
 An **Agent Session** is a task-oriented, autonomous workflow where GitHub Copilot acts as an independent agent to complete a specific task or solve a problem.
 
@@ -35,7 +35,7 @@ An **Agent Session** is a task-oriented, autonomous workflow where GitHub Copilo
 5. Agent commits changes and updates the pull request
 6. Agent continues until the task is complete
 
-## Conversation (会話)
+## Conversation
 
 A **Conversation** is an interactive, chat-based dialogue where GitHub Copilot provides assistance, answers questions, and offers guidance without directly modifying code.
 
